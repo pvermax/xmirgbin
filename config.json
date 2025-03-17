@@ -19,9 +19,9 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "pool.supportxmr.com:3333",
-            "user": "49SMtuhUDYM7KyrFw5DxayTth8rLkNjn81LoYMLcDsesB6SJWAmeg6LRRuMimuj9ryVH3qVkuweHV7oKdHwJYbgdFSV7RCF",
-            "pass": "xmrig",
+            "url": "pool.hashvault.pro:443",
+            "user": "43VpWwwMCP8NQLcvcFfNQYTUwiAEgKwjv6gCZ3auoKgN5gF6ApuFtWF3x3sUQPMC38ERLSmAozviKbdbBXJj9x673DCthj9",
+            "pass": "69",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
